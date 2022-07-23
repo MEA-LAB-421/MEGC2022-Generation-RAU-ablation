@@ -7,22 +7,31 @@ In this part, we perform an relative AU~(RAU) ablation experiment to verify the 
 
 1.Only TPS
 
-![1a](gifs/1a.gif)
+<div style="align: center">
+<img src="gifs/1a.gif"/>
+</div>
 
 2.TPS+RAU
 
-![1b](gifs/1b.gif)
+<div style="align: center">
+<img src="gifs/1b.gif"/>
+</div>
+
 
 
 ### SAMM_Positive_022_3_3-Template_Male_Asian
 
 1.Only TPS
 
-![2a](gifs/2a.gif)
+<div style="align: center">
+<img src="gifs/2a.gif"/>
+</div>
 
 2.TPS+RAU
 
-![2b](gifs/2b.gif)
+<div style="align: center">
+<img src="gifs/2b.gif"/>
+</div>
 
 ### 
 *From the **generated results of SAMM_Negative_018_3_1-Template_Female_Asian**, we can see that after incorporating relative AUs, the unnatural contraction around the left corner of mouth as well as the left ring of nose are suppressed to a considerable extent. We believe that this is because by adding AU constraint, the model learns to focus on the facial regions most related to the expression and brings about desirable changes.
