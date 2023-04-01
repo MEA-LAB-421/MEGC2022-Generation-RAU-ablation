@@ -25,7 +25,7 @@ In this part, we perform an relative AU~(RAU) ablation experiment to verify the 
 1.Only TPS
 
 <div style="align: center">
-<img src="gifs/2-only TPS"/>
+<img src="gifs/2-only TPS.gif"/>
 </div>
 
 2.TPS+RAU
